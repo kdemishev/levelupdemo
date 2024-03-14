@@ -24,6 +24,7 @@ begin
 	('FCO', 'Leonardo da Vinci–Fiumicino Airport', 'Via dell'' Aeroporto di Fiumicino, 320, 54, 00054 Fiumicino RM, Italy', 41.8003, 12.2388),
 	('MUC', 'Munich Airport', 'Nordallee 25, 85356 München-Flughafen, Germany', 48.3537, 11.7750),
 	('ZRH', 'Zurich Airport', '8058 Zürich, Switzerland', 47.4647, 8.5492),
-	('CPH', 'Copenhagen Airport', 'Lufthavnsboulevarden 6, 2770 Kastrup, Denmark', 55.6180, 12.6497);
+	('CPH', 'Copenhagen Airport', 'Lufthavnsboulevarden 6, 2770 Kastrup, Denmark', 55.6180, 12.6497),
+	('IEV', 'Kyiv (Zhuliany) International Airport', 'Medova str., Kyiv 03048, Ukraine', 50.2460, 30.276);
 end;$$ 
 language plpgsql;
