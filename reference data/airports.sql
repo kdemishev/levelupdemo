@@ -27,5 +27,3 @@ begin
 	('CPH', 'Copenhagen Airport', 'Lufthavnsboulevarden 6, 2770 Kastrup, Denmark', 55.6180, 12.6497);
 end;$$ 
 language plpgsql;
-
-call test_fillAirports();
