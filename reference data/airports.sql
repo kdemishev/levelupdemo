@@ -6,9 +6,6 @@ create table airport (
 	longitude decimal
 );
 
-
-select * from airport;
-
 create or replace procedure test_fillAirports()
 as $$
 begin
